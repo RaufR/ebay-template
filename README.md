@@ -1,5 +1,7 @@
-# ebay-template
-ebay Modern Template  
+# ebay-template  
+ebay Modern Template 
+[Copy & Paste](https://raw.githubusercontent.com/kenhrmt/ebay-template/master/index.html)
+ 
   
 * Responsive
 * Mobile friendly
