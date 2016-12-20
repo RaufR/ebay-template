@@ -9,6 +9,6 @@ ebay Modern Template
 * A more secure code
 * Simple & Easy
 
-Supports 2016 Seller Update.
+Supports 2016 Seller Update.(http://pages.ebay.com/sellerinformation/news/sprupd16/view-item.html)  
 View Item description summaries for better mobile viewing.
 seller & designer be careful.
